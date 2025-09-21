@@ -16,7 +16,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-        <p className="f-p">Hello world!</p>
+        <p className="f-p">Hello guys </p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
