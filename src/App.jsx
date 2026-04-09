@@ -19,7 +19,7 @@ function App() {
         <p className="f-p">Hello guys </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Hello world, this is my first Vite + React project. I am excited to learn and explore more about these technologies.
       </p>
     </>
   )
